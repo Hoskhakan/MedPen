@@ -87,6 +87,13 @@ export default function Navbar() {
           </button>
 
           <a
+            href="/thesis-chart-pro"
+            className="hidden md:inline-flex items-center gap-1.5 px-3 py-2 bg-blue-600 hover:bg-blue-500 text-white text-xs font-semibold rounded-lg transition-colors duration-200"
+          >
+            📊 ThesisChart Pro
+          </a>
+
+          <a
             href="https://wa.me/message/RD2MBNPA3USBN1"
             target="_blank"
             rel="noopener noreferrer"
